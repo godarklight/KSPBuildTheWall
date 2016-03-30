@@ -1,0 +1,7 @@
+*.orig
+*.dll
+*.userprefs
+BuildTheWall/bin/*
+BuildTheWall/obj/*
+*.suo
+*.csproj.user
